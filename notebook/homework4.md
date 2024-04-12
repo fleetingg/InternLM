@@ -6,9 +6,9 @@
   - [使用 LMDeploy 运行视觉多模态大模型 llava gradio demo](#使用-lmdeploy-运行视觉多模态大模型-llava-gradio-demo)
 #  基础作业
 
-![image-20240411022153989](C:/Users/一曲流年/AppData/Roaming/Typora/typora-user-images/image-20240411022153989.png)
+![image-20240411022153989](../Image/image-20240411022153989.png)
 
-![image-20240411022128020](C:/Users/一曲流年/AppData/Roaming/Typora/typora-user-images/image-20240411022128020.png)
+![image-20240411022128020](../Image/image-20240411022128020.png)
 
 #  进阶作业
 
@@ -20,9 +20,9 @@ lmdeploy chat /root/internlm2-chat-1_8b-4bit --model-format awq
 
 
 
-![image-20240412154850002](C:/Users/一曲流年/AppData/Roaming/Typora/typora-user-images/image-20240412154850002.png)
+![image-20240412154850002](../Image/image-20240412154850002.png)
 
-![image-20240412155009507](C:/Users/一曲流年/AppData/Roaming/Typora/typora-user-images/image-20240412155009507.png)
+![image-20240412155009507](../Image/image-20240412155009507.png)
 
 ## 以API Server方式启动 lmdeploy，开启 W4A16量化，调整KV Cache的占用比例为0.4，分别使用命令行客户端与Gradio网页客户端与模型对话。
 
@@ -41,20 +41,20 @@ lmdeploy serve api_server \
 
 后端：
 
-![image-20240412160228257](C:/Users/一曲流年/AppData/Roaming/Typora/typora-user-images/image-20240412160228257.png)
+![image-20240412160228257](../Image/image-20240412160228257.png)
 
-命令行前端：![image-20240412160214048](C:/Users/一曲流年/AppData/Roaming/Typora/typora-user-images/image-20240412160214048.png)
+命令行前端：![image-20240412160214048](../Image/image-20240412160214048.png)
 
 转发：
 
-![image-20240412160550293](C:/Users/一曲流年/AppData/Roaming/Typora/typora-user-images/image-20240412160550293.png)
+![image-20240412160550293](../Image/image-20240412160550293.png)
 
-html：![image-20240412160701522](C:/Users/一曲流年/AppData/Roaming/Typora/typora-user-images/image-20240412160701522.png)
-
-
-
-## 使用W4A16量化，调整KV Cache的占用比例为0.4，使用Python代码集成的方式运行internlm2-chat-1.8b模型![image-20240412161351932](C:/Users/一曲流年/AppData/Roaming/Typora/typora-user-images/image-20240412161351932.png)
+html：![image-20240412160701522](../Image/image-20240412160701522.png)
 
 
-## 使用 LMDeploy 运行视觉多模态大模型 llava gradio demo![image-20240411032011742](C:/Users/一曲流年/AppData/Roaming/Typora/typora-user-images/image-20240411032011742.png)
+
+## 使用W4A16量化，调整KV Cache的占用比例为0.4，使用Python代码集成的方式运行internlm2-chat-1.8b模型![image-20240412161351932](../Image/image-20240412161351932.png)
+
+
+## 使用 LMDeploy 运行视觉多模态大模型 llava gradio demo![image-20240411032011742](../Image/image-20240411032011742.png)
 
