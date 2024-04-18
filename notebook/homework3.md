@@ -1,11 +1,18 @@
-![image-20240417194815279](C:/Users/一曲流年/AppData/Roaming/Typora/typora-user-images/image-20240417194815279.png)
+- [训练自己的小助手认知](#训练自己的小助手认知)
+- [将自我认知的模型上传到 OpenXLab](#将自我认知的模型上传到-openxlab)
+- [复现多模态微调](#复现多模态微调)
 
-![image-20240417205603501](C:/Users/一曲流年/AppData/Roaming/Typora/typora-user-images/image-20240417205603501.png)
+### 训练自己的小助手认知![image-20240417194815279](../Image/image-20240417194815279.png)
 
-![image-20240417210447127](C:/Users/一曲流年/AppData/Roaming/Typora/typora-user-images/image-20240417210447127.png)
+![image-20240417205603501](../Image/image-20240417205603501.png)
 
-![image-20240417213500340](C:/Users/一曲流年/AppData/Roaming/Typora/typora-user-images/image-20240417213500340.png)
+![image-20240417210447127](../Image/image-20240417210447127.png)
 
-![image-20240417230019542](C:/Users/一曲流年/AppData/Roaming/Typora/typora-user-images/image-20240417230019542.png)
+![image-20240417213500340](../Image/image-20240417213500340.png)
 
-![image-20240417233046193](C:/Users/一曲流年/AppData/Roaming/Typora/typora-user-images/image-20240417233046193.png)
+
+### 将自我认知的模型上传到 OpenXLab![image-20240418182042910](../Image/image-20240418182042910.png)
+
+### 复现多模态微调![image-20240417230019542](../Image/image-20240417230019542.png)
+
+![image-20240417233046193](../Image/image-20240417233046193.png)
