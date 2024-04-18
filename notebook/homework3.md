@@ -10,8 +10,13 @@
 
 ![image-20240417213500340](../Image/image-20240417213500340.png)
 
+### 将自我认知的模型上传到 OpenXLab
 
-### 将自我认知的模型上传到 OpenXLab![image-20240418182042910](../Image/image-20240418182042910.png)
+> gradio似乎需要申请，这个过拟合的模型有点不好意思。。。
+
+[mymodel_openxlab](https://openxlab.org.cn/models/detail/fleet/internlm_1.8b/tree/main)
+
+![image-20240418182042910](../Image/image-20240418182042910.png)
 
 ### 复现多模态微调![image-20240417230019542](../Image/image-20240417230019542.png)
 
